@@ -1,0 +1,31 @@
+Dobava i montaža 8 kanalnog NVR, podržava 8Mpix/6Mpix, 2x HDD, Quadpleks, H.264/H.265 kompresija, brzina snimanja 8Mpx, 6Mpx, 4Mpx, 1080p@ 25fps po kanalu, HDMI 4k, P2P LAN DHCP, DDNS, napajanje 12 VDC, napajanje u kompletu. Komplet sa tvrdim diskom kapaciteta 4TB namijenjen posebno za sustave videonadzora.
+
+Dobava i montaža vanjske IP kamere rezolucije do 6 Mpix (3072 x 2048/ 20fps), kompresija H.264, H.264+, H.265, H.265+, Bit rate 32Kbsp - 16 Mbps, 3 streama, objektiv 2.8mm, osjetljivnost 0.01 Lux@F1.2, True WDR, 120dB, 3D DNR, IR LED dometa do 50m, microSD slot, napajanje 12VDC/PoE, 2 VCA, IP67, komplet s razvodnom kutijom i nosaćem.
+
+Dobava i montaža dome mrežne IP antivandal kamere, rezolucija do 4 megapiksela
+- 4MP, mmontaža u 3 osi, 2560 x 1440@30fps
+Leća: 2.8mm, Domet IR-a: do 30m
+Efektivni pikseli 3072 x 2048
+Podržava: motion detekciju, temper detekciju, područje interesa, line crossing, intrusion
+
+Dobava i montaža dome mrežne IP antivandal kamere, rezolucija 2 megapiksela
+-2MP, montaža u 3 osi, 2560 x 1440@30fps
+-PoE, IP67, 3D-DNR, WDR, Bic microSD slot
+Leća: 2.8mm
+Domet IR-a: do 30m
+Efektivni pikseli: 1920 x 1080, FullHD
+Komplet sa razvodnom kutijom 
+
+Izvedba potrebne električne instalacije (min. UTP cat. 5e, PVC kanalice, PVC cijevi, proboji...)
+
+Izvedba i sanacija iskopa između dva objekta za potrebe polaganja elektroinstalacija
+
+Dobava i mmontaža komunikacijskog zidnog ormara 9U, bež, odvojive bočne stranice, prednja vrata 5MM staklo, nosivost 60kg, napajačka letva 6x Schuko utičnice, zaštita od dodira, Max snaga 3500W, 220V/50Hz, 16A, polica dubine 450mm, brava sa dva ključa
+
+Dobava i montaža 4x PoE switcha
+
+Spajanje, ispitivanje, programiranje, puštanje u rad i obuka korisnika, te dokumentacija prema Pravilniku o uvjetima i načinu provedbe sustava tehničke zaštite, Pravilniku o načinu i uvjetima obavljanja poslova privatne zaštite na javnim površinama
+
+
+
+Temeljem razgovora, ukazane potrebe i uvida na objektu, dostavljamo Vam ponudu za dobavu i montažu sustava tehničke zaštite - sustav videonadzora za potrebe Vaše peradarske farme u Palinovcu - 2. FARMA
